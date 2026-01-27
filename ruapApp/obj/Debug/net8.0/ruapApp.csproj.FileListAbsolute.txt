@@ -1,0 +1,15 @@
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\bin\Debug\net8.0\ruapApp.exe
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\bin\Debug\net8.0\ruapApp.deps.json
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\bin\Debug\net8.0\ruapApp.runtimeconfig.json
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\bin\Debug\net8.0\ruapApp.dll
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\bin\Debug\net8.0\ruapApp.pdb
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.AssemblyInfoInputs.cache
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.AssemblyInfo.cs
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.csproj.CoreCompileInputs.cache
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.sourcelink.json
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.dll
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\refint\ruapApp.dll
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.pdb
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ruapApp.genruntimeconfig.cache
+D:\FAKS\4. godina\Računarstvo usluga i analiza podataka\seminar\ruap_projekt\ruapApp\obj\Debug\net8.0\ref\ruapApp.dll
